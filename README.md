@@ -41,9 +41,15 @@ The app features a clean and responsive UI, built with **HTML, CSS (Google Fonts
 
 ## License & Contact
 This project is open-source and free to use. 
-Feel free to connect with me on 
-* LinkedIn: (https://www.linkedin.com/in/bektas-sari)
-* E-mail: bektas.sari@gmail.com
+
+## 👤 Developer
+
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 
 
 
