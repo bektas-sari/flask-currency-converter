@@ -42,15 +42,19 @@ The app features a clean and responsive UI, built with **HTML, CSS (Google Fonts
 ## License & Contact
 This project is open-source and free to use. 
 
-## 👤 Developer
 
-**Bektaş Sarı**<br>
-PhD in Advertising, AI + Creativity researcher<br>
-Flutter Developer & Software Educator<br>
+## 👤 Perception Architect
 
-- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
-- **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
-- **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
+**Dr. Bektaş Sarı** | Perception Architect & Founder @ [KOGNITECT](https://kognitect.com)
 
+I build bridges between **Human Nature** and **Digital Technology**.
+My mission is to **construct** and **refine** rational, scientifically grounded products that establish **clarity, solidity, and trust**—not through manipulation, but through neuroscience and evolutionary psychology.
+
+*PhD in Advertising (Focus: AI as a Design Tool)*
+
+- 🌐 **Website:** [kognitect.com](https://kognitect.com)
+- 📩 **Email:** [info@kognitect.com](mailto:info@kognitect.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)
+- 🔬 **ResearchGate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)
+- 🎓 **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
 
